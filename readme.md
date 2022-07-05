@@ -6,23 +6,47 @@ A front-end clone project of the Spotify website. The project is created HTML, C
 * CSS
 * JavaScript
 
-Home Page
+
+### Home Page
+
+
 ![This is an image](/assets/Initial1.png)
 
 ![This is an image](/assets/Initial2.png)
 
 ![This is an image](/assets/Initial3.png)
 
-Premium Page
+
+
+### Premium Page
+
+
+
 ![This is an image](/assets/Premium1.png)
 
 ![This is an image](/assets/Premium2.png)
 
-Support Page
+
+
+### Support Page
+
+
+
 ![This is an image](/assets/Support.png)
 
-Download Page
+
+
+
+### Download Page
+
+
+
 ![This is an image](/assets/Download.png)
 
-Web Player Page
+
+
+### Web Player Page
+
+
+
 ![This is an image](/assets/WebPlayer.png)
