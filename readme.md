@@ -1,5 +1,5 @@
 # Spotify Clone
-A front-end clone project of the Spotify website. The project is created HTML, CSS and Javascript.
+A front-end clone project of the Spotify website. The project is developed using HTML, CSS and Javascript.
 
 ## Tech/Framework Used
 * HTML
